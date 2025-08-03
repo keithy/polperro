@@ -47,17 +47,38 @@ Polperro may not be Troy, but if it was, history would tell that the Greeks snea
 wooden horse only to find themselves in a cave under lock and key.
 
 The Mayor requires a certain protocol for filling and handling kegs, rules are enforced by the harbour-master,
-who is a complete git by all accounts. The harbor-master has specialised git/actions for evaluating and
-certifying each type of goods, not just kegs.
+whom, my all accounts, is a complete git. The harbour-master has specialised git/actions for evaluating and
+certifying all varieties of package, not just kegs.
 
-All kegs must be created in a public manner, a detailed log must be kept of every step when it is filled;
-every source of every item must be recorded. Contents should be of good repute, and where possible 
-obtained from intermediary suppliers with their own checks, balances and certification in place. 
+## HMS-Linux Resources
+
+### Kegs
+
+All *kegs* are OCI containers, they must be created in a public manner, and a detailed log must be kept of
+every step when it is filled;
+every source of every item must be recorded. Contents should be of good repute, and where possible
+obtained from intermediary suppliers with their own checks, balances and certification in place.
 The resulting *keg* must have a detailed provenence, be fully inspectable, be self-contained
-and the defining feature of a *keg* is that IT IS NOT open to the air.
+and the defining feature of a *keg* is that IT IS NOT
+open to the air.
 
-Once inspected and tagged with seals of approval, Kegs may be brought out of the cave, but they may only
-be used in approved establishments, that are themselves rigourously controlled.
+Once inspected and tagged with seals of approval, *Kegs* may be brought out of the cave, but they
+may only be used in approved establishments, that are themselves rigourously controlled.
+
+### Flagons
+
+While a *keg* is hermetically sealed and self-contained, a *flagon* is open to the air.
+Flagons will need independent certifications, and detailed documentation as to the egress
+and ingress permitted.
+
+Certain certifications, once granted, may be automatically permitted on a recurring basis,
+such as ingress from pre-approved package sources.
+
+### Sacks
+
+A *sack* may contain anything. All sacks will be flagged for manual inspection, and their
+provenence checked. *Sacks* may be miscellaneous items that are collected, they need not
+be packaged as a container.
 
 ## The Pirate Organisation Metaphor
 
@@ -71,4 +92,9 @@ The process of progression is seen in organizations where town planners thrive b
 components from settlers, and settlers thive by stealing novel ideas and technologies from pioneers. 
 Creative theft thrives in the settler layer — they aquire pioneer inventions and stabilize them,
 ready for broader use. A smart organization allows "theft" across layers.
+
+### Licensing
+
+Polperro is an open-source harbour, the github workflows that it uses are entirely generic, supplied and 
+developed by the open source community under an MIT licese.
 
