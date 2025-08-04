@@ -1,0 +1,4 @@
+Pre-build hook scripts go here (executed before builds in this harbour).
+- Examples: registry logins (Cloudsmith/ECR), secret/materialization checks, policy gates
+- Ensure scripts are executable (chmod +x) and idempotent
+- Order: files run in lexical order; prefix with numbers if you need ordering (01-*, 10-*)

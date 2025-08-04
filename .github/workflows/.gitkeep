@@ -1,0 +1,4 @@
+Keep this directory committed. Navy (your DevOps team) adds runnable GitHub Actions here when ready.
+- Place your chosen watchman builder, e.g. watchman-linus.hm.yml
+- Keep documentation like watchman-linus.hm.md alongside
+- Tests/CI workflows for the harbour also live here
