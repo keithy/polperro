@@ -13,7 +13,7 @@ Polperro imports linux resources, *kegs*, *flagons*, and *sacks* of all kinds;
 specialising in self-contained sealed developer-containers, called *kegs*. 
 When open for trade, the Mayor allows any old sailor to hang around the
 tavern hoping to sample a *keg* or two, but rest assured no *keg* leaves 
-the safety of Polperro without detailed provenence,
+the safety of Polperro without detailed provenance,
 and a stamp of approval.
 
 Other ports around **devops-cove** will likely handle different cargos, with even more care. 
@@ -35,7 +35,7 @@ air-tight developer environment with everything that a developer requests sealed
 
 Most *enterprise-sailors* are conscientious in their *keg* using habits, even the most
 cautious can be caught out by phishermen, hackers or other ruffians. Novice sailors
-may not always excercise total sobriety and care, hence the song.
+may not always exercise total sobriety and care, hence the song.
 
 Like everything that passes through Polperro, Kegs come from foreign ports. Since they are filled offshore
 their contents are are not to be trusted and will be kept in a cave until thoroughly sampled
@@ -72,12 +72,12 @@ All *kegs* are OCI containers, they must be created in a public manner, and a de
 every step when it is filled;
 every source of every item must be recorded. Contents should be of good repute, and where possible
 obtained from intermediary suppliers with their own checks, balances and certification in place.
-The resulting *keg* must have a detailed provenence, be fully inspectable, be self-contained
+The resulting *keg* must have a detailed provenance, be fully inspectable, be self-contained
 and the defining feature of a *keg* is that IT IS NOT
 open to the air.
 
 Once inspected and tagged with seals of approval, *Kegs* may be brought out of the cave, but they
-may only be used in approved establishments, that are themselves rigourously controlled.
+may only be used in approved establishments, that are themselves rigorously controlled.
 
 ### Flagons
 
@@ -91,7 +91,7 @@ such as ingress from pre-approved package sources.
 ### Sacks
 
 A *sack* may contain anything. All sacks will be flagged for manual inspection, and their
-provenence checked. *Sacks* may be miscellaneous items that are collected, they need not
+provenance checked. *Sacks* may be miscellaneous items that are collected, they need not
 be packaged as a container.
 
 ## The Pirate Organisation Metaphor
@@ -103,12 +103,12 @@ Simon Wardley's model for effective technical organisations, uses a similar meta
 - Town Planners industrialize and commoditize
 
 The process of progression is seen in organizations where town planners thrive by "appropriating" tried and tested
-components from settlers, and settlers thive by stealing novel ideas and technologies from pioneers. 
-Creative theft thrives in the settler layer — they aquire pioneer inventions and stabilize them,
+components from settlers, and settlers thrive by stealing novel ideas and technologies from pioneers. 
+Creative theft thrives in the settler layer — they acquire pioneer inventions and stabilize them,
 ready for broader use. A smart organization allows "theft" across layers.
 
 ### Licensing
 
 Polperro is an open-source harbour, the github workflows that it uses are entirely generic, supplied and 
-developed by the open source community under an MIT licese.
+developed by the open source community under an MIT license.
 

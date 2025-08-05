@@ -1,6 +1,6 @@
 #### Keywords Thesaurus
 
-The italicised keywords listed below should be italizised in project documentation.
+The italicised keywords listed below should be italicized in project documentation.
 
 Developer
     Linux   - *keg*   *flagon* *sack*
