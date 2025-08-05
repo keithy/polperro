@@ -52,6 +52,20 @@ certifying all varieties of package, not just kegs.
 
 ## HMS-Linux Resources
 
+### Hooks
+
+The hooks hierarchy mirrors the harbour-master pipeline phases. Populate scripts in these folders as needed:
+
+- hooks/10-pre-build.d
+- hooks/20-post-build.d
+- hooks/30-verify.d
+- hooks/40-pre-publish.d
+- hooks/50-publish.d
+- hooks/60-post-publish.d
+- hooks/70-report.d
+
+Each directory contains a .gitkeep placeholder; replace with real scripts when adopting workflows. Common helpers live in hooks/hooks.fns.sh and may be sourced by hook scripts.
+
 ### Kegs
 
 All *kegs* are OCI containers, they must be created in a public manner, and a detailed log must be kept of
