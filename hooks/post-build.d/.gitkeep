@@ -1,4 +1,0 @@
-Post-build hook scripts go here (executed after builds, and sanity-tests, in this harbour).
-- Examples: bash-spec specs, are available for all project types, policy gates
-- Ensure scripts are executable (chmod +x) and idempotent
-- Order: files run in lexical order; prefix with numbers if you need ordering (01-*, 10-*)
