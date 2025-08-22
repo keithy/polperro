@@ -1,0 +1,32 @@
+# Developer Workspace Mise Configuration Template
+# Customize this file for your specific development needs
+
+[tools]
+# Add your required tools here
+# Examples:
+# node = "20"
+# python = "3.12"
+# go = "1.23"
+# jq = "latest"
+# gh = "latest"
+
+[env]
+# Set environment variables for your development environment
+# Examples:
+# EDITOR = "vim"
+# WORKSPACE = "/home/dev/workspace"
+
+[tasks.setup]
+description = "Set up development environment"
+run = '''
+echo "Setting up your development workspace..."
+# Add your setup commands here
+echo "Setup complete!"
+'''
+
+# Add more tasks as needed
+# [tasks.your-task]
+# description = "Description of your task"
+# run = '''
+# your commands here
+# '''
